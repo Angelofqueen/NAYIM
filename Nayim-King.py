@@ -407,7 +407,7 @@ __________________×______________________
 
   Facebook : Nayim islam
   
-  TikTok : tiktok.com/@facbook58
+  TikTok : tiktok.com/@termux122
   
   Contact : +8801305067581
 __________________×______________________\033[1;37m""")
